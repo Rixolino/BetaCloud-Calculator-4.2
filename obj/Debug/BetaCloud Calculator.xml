@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BetaCloud Calculator
+</name>
+</assembly>
+<members>
+<member name="T:BetaCloud_Calculator.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources._96008521641ba74442999e1394f478c">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.betacloud_removebg_preview">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.imagen_back_button_no_r1oot_0thumb">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.imagen_back_button_no_root_0thumb">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_190345">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_190604">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_190909">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_191751">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_192000">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_192056">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_29_192705">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_202416">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_202837">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_202922">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_203005">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_203144">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2021_11_30_203321">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.Immagine_2022_03_11_194430">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.kisspng_computer_icons_computer_mouse_icon_design_symbol_move_5ac2dfc3938b30_9915034715227207076044">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BetaCloud_Calculator.My.Resources.Resources.unnamed">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

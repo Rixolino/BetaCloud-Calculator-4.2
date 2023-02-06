@@ -1,0 +1,17 @@
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.exe.config
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.exe.manifest
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.application
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.exe
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.pdb
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\bin\x86\Debug\BetaCloud Calculator.xml
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud_Calculator.Form1.resources
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud_Calculator.Form2.resources
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud_Calculator.Form3.resources
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud_Calculator.Resources.resources
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.vbproj.GenerateResource.cache
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.exe.manifest
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.application
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.exe
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.xml
+C:\Users\SIMONE\source\repos\BetaCloud Calculator\obj\x86\Debug\BetaCloud Calculator.pdb
