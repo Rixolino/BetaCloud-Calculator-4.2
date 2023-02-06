@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\SIMONE\Downloads\BetaCloud Calculator v4.1.5\|C:\Users\SIMONE\Downloads\BetaCloud Calculator v3.9.5\|C:\Users\SIMONE\Downloads\BetaCloud Calculator v3.9\|C:\Users\SIMONE\Downloads\BetaCloud Calculator 2022\|C:\Users\SIMONE\Downloads\BetaCloud Calculator Beta\Vers 2\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://www.betacloudsoftware.wordpress.com</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+</Project>
